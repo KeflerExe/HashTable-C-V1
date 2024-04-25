@@ -12,9 +12,9 @@
 
 This repository houses a robust and efficient implementation of a hash table data structure, designed to handle key-value pairs with lightning-fast lookup times.
 
-Efficient Hashing: Utilizes well-designed hashing algorithms to distribute elements evenly across the table, minimizing collisions and optimizing performance.
-Flexible Key-Value Storage: Allows for storage and retrieval of key-value pairs, providing a versatile solution for a wide range of applications.
-Dynamic Resizing: Automatically adjusts the size of the hash table to maintain optimal performance, ensuring efficient memory usage and responsiveness.
+1.Efficient Hashing: Utilizes well-designed hashing algorithms to distribute elements evenly across the table, minimizing collisions and optimizing performance.
+2.Flexible Key-Value Storage: Allows for storage and retrieval of key-value pairs, providing a versatile solution for a wide range of applications.
+3.Dynamic Resizing: Automatically adjusts the size of the hash table to maintain optimal performance, ensuring efficient memory usage and responsiveness.
 
 Whether you're looking to implement a hash table for a small project or a large-scale application, this repository provides a solid foundation to build upon.
 
