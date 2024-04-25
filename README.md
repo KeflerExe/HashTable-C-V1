@@ -7,6 +7,7 @@
 
 ```diff
 - WARNING: This hash table version is outdated and may have some errors. Check out the 2.0 version in my repositories!
+- https://github.com/KeflerExe/HashTable-C-V2
 
 ```
 
