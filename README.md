@@ -5,19 +5,18 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
+```diff
+- WARNING: This hash table version is outdated and may have some errors. Check out the 2.0 version in my repositories!
 
-In different fields of science there is a need to work with very big, or very small  numerical values.
-With this program im implementing data types in C++ to handle 
-very large numeric values, exceeding the representation range of the defined data types
-in standard language. To do this, the generic data type BigInt<size_t Base> is defined
-which represents integers using positional notation. In this numbering system, the value of a digit depends on its relative position and the base, which determines the number of
-digits needed to write any number. By default, the decimal system will be used
-(base 10), although it is also common to use the binary (base 2), octal (base 8) and hexadecimal (base 16).
+```
 
-The representation range of the BigInt<size_t Base> data type encompasses any integer, positive or negative, that can be stored in machine memory.
-That is, the maximum range is limited by the maximum size that the system allows for the data structure where the digits are stored.
+This repository houses a robust and efficient implementation of a hash table data structure, designed to handle key-value pairs with lightning-fast lookup times.
 
-Using the BigInt<Base> data type, the program implements a calculator for expressions in inverse Polish notation.
+Efficient Hashing: Utilizes well-designed hashing algorithms to distribute elements evenly across the table, minimizing collisions and optimizing performance.
+Flexible Key-Value Storage: Allows for storage and retrieval of key-value pairs, providing a versatile solution for a wide range of applications.
+Dynamic Resizing: Automatically adjusts the size of the hash table to maintain optimal performance, ensuring efficient memory usage and responsiveness.
+
+Whether you're looking to implement a hash table for a small project or a large-scale application, this repository provides a solid foundation to build upon.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
